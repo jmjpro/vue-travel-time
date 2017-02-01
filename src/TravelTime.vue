@@ -1,5 +1,5 @@
 <template>
-  <div id="travel-time">
+  <div id="travel_time">
     <h1>Get travel time and weather</h1>
     <SearchForm></SearchForm>
     <SearchResult v-show="isShowSearchResult"></SearchResult>
