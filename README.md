@@ -1,8 +1,8 @@
 # Travel Time and Weather
 
 > A vue.js + vueX + vee-validate project
-> The Search and Reset buttons are disabled or enabled as appropriate based on the form state
-> For example, during a search both buttons are disabled
+
+> The Search and Reset buttons are disabled or enabled as appropriate based on the form state. For example, during a search both buttons are disabled
 
 ## Build Setup
 
