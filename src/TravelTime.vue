@@ -25,7 +25,7 @@ export default {
 </script>
 
 <style>
-#weather {
+#travel_time {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   font-size: 1.5em;
   -webkit-font-smoothing: antialiased;
